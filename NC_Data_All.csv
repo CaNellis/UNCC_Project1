@@ -1,0 +1,181 @@
+Year,Cause Name,State,Deaths,Age-adjusted Death Rate
+2016,Unintentional injuries,North Carolina,5476,52.2
+2016,Alzheimer's disease,North Carolina,4153,37.2
+2015,Alzheimer's disease,North Carolina,3803,34.8
+2014,Alzheimer's disease,North Carolina,3246,30.5
+2013,Alzheimer's disease,North Carolina,2872,27.7
+2012,Alzheimer's disease,North Carolina,2850,28.4
+2011,Alzheimer's disease,North Carolina,2828,29.3
+2010,Alzheimer's disease,North Carolina,2817,30.3
+2009,Alzheimer's disease,North Carolina,2646,29.2
+2008,Alzheimer's disease,North Carolina,2624,29.8
+2007,Alzheimer's disease,North Carolina,2460,28.7
+2006,Alzheimer's disease,North Carolina,2265,27.3
+2005,Alzheimer's disease,North Carolina,2417,30.5
+2004,Alzheimer's disease,North Carolina,2188,28.4
+2003,Alzheimer's disease,North Carolina,2145,28.3
+2002,Alzheimer's disease,North Carolina,1962,26.6
+2001,Alzheimer's disease,North Carolina,1786,24.6
+2000,Alzheimer's disease,North Carolina,1725,24.3
+1999,Alzheimer's disease,North Carolina,1456,20.8
+2016,Cancer,North Carolina,19523,161.6
+2015,Cancer,North Carolina,19322,164.7
+2014,Cancer,North Carolina,19342,169.3
+2013,Cancer,North Carolina,18589,167.6
+2012,Cancer,North Carolina,18405,170.2
+2011,Cancer,North Carolina,18284,175.0
+2010,Cancer,North Carolina,18061,179.0
+2009,Cancer,North Carolina,17513,176.9
+2008,Cancer,North Carolina,17453,181.3
+2007,Cancer,North Carolina,17478,187.1
+2006,Cancer,North Carolina,17318,191.4
+2005,Cancer,North Carolina,16724,191.2
+2004,Cancer,North Carolina,16477,193.7
+2003,Cancer,North Carolina,16145,193.9
+2002,Cancer,North Carolina,16210,199.9
+2001,Cancer,North Carolina,16065,202.7
+2000,Cancer,North Carolina,15786,204.2
+1999,Cancer,North Carolina,15815,207.1
+2016,CLRD,North Carolina,5311,44.8
+2015,CLRD,North Carolina,5221,45.5
+2014,CLRD,North Carolina,5023,45.1
+2013,CLRD,North Carolina,4987,46.3
+2012,CLRD,North Carolina,4844,46.4
+2011,CLRD,North Carolina,4708,46.7
+2010,CLRD,North Carolina,4495,46.1
+2009,CLRD,North Carolina,4329,45.4
+2008,CLRD,North Carolina,4572,49.3
+2007,CLRD,North Carolina,4231,46.9
+2006,CLRD,North Carolina,4017,45.8
+2005,CLRD,North Carolina,4149,49.2
+2004,CLRD,North Carolina,3625,43.9
+2003,CLRD,North Carolina,3887,48.2
+2002,CLRD,North Carolina,3674,46.6
+2001,CLRD,North Carolina,3514,45.6
+2000,CLRD,North Carolina,3699,48.9
+1999,CLRD,North Carolina,3591,48.0
+2016,Diabetes,North Carolina,2811,23.5
+2015,Diabetes,North Carolina,2746,23.6
+2014,Diabetes,North Carolina,2687,23.7
+2013,Diabetes,North Carolina,2402,21.8
+2012,Diabetes,North Carolina,2409,22.6
+2011,Diabetes,North Carolina,2278,22.1
+2010,Diabetes,North Carolina,2042,20.5
+2009,Diabetes,North Carolina,2114,21.5
+2008,Diabetes,North Carolina,2170,22.7
+2007,Diabetes,North Carolina,2156,23.3
+2006,Diabetes,North Carolina,2234,24.9
+2005,Diabetes,North Carolina,2261,26.2
+2004,Diabetes,North Carolina,2253,26.9
+2003,Diabetes,North Carolina,2388,29.1
+2002,Diabetes,North Carolina,2205,27.6
+2001,Diabetes,North Carolina,2181,27.9
+2000,Diabetes,North Carolina,2084,27.3
+1999,Diabetes,North Carolina,2050,27.0
+2016,Heart disease,North Carolina,18266,155.8
+2015,Heart disease,North Carolina,18474,162.4
+2014,Heart disease,North Carolina,17592,158.7
+2013,Heart disease,North Carolina,17830,165.3
+2012,Heart disease,North Carolina,17348,166.1
+2011,Heart disease,North Carolina,17003,167.9
+2010,Heart disease,North Carolina,17154,174.9
+2009,Heart disease,North Carolina,17203,179.7
+2008,Heart disease,North Carolina,17335,186.4
+2007,Heart disease,North Carolina,17395,193.0
+2006,Heart disease,North Carolina,17271,197.6
+2005,Heart disease,North Carolina,17765,211.7
+2004,Heart disease,North Carolina,17607,215.2
+2003,Heart disease,North Carolina,18674,233.3
+2002,Heart disease,North Carolina,18524,237.6
+2001,Heart disease,North Carolina,18792,246.1
+2000,Heart disease,North Carolina,19723,264.5
+1999,Heart disease,North Carolina,19191,260.9
+2016,Influenza and pneumonia,North Carolina,1896,16.5
+2015,Influenza and pneumonia,North Carolina,2115,18.7
+2014,Influenza and pneumonia,North Carolina,1874,17.2
+2013,Influenza and pneumonia,North Carolina,1931,18.3
+2012,Influenza and pneumonia,North Carolina,1899,18.5
+2011,Influenza and pneumonia,North Carolina,1619,16.3
+2010,Influenza and pneumonia,North Carolina,1700,17.7
+2009,Influenza and pneumonia,North Carolina,1752,18.7
+2008,Influenza and pneumonia,North Carolina,1737,19.1
+2007,Influenza and pneumonia,North Carolina,1645,18.7
+2006,Influenza and pneumonia,North Carolina,1705,20.1
+2005,Influenza and pneumonia,North Carolina,1830,22.5
+2004,Influenza and pneumonia,North Carolina,1686,21.3
+2003,Influenza and pneumonia,North Carolina,1990,25.6
+2002,Influenza and pneumonia,North Carolina,1898,25.1
+2001,Influenza and pneumonia,North Carolina,1780,24.1
+2000,Influenza and pneumonia,North Carolina,1945,26.8
+1999,Influenza and pneumonia,North Carolina,1891,26.5
+2016,Kidney disease,North Carolina,2002,17.1
+2015,Kidney disease,North Carolina,1821,16.0
+2014,Kidney disease,North Carolina,1791,16.3
+2013,Kidney disease,North Carolina,1780,16.6
+2012,Kidney disease,North Carolina,1656,15.9
+2011,Kidney disease,North Carolina,1705,17.0
+2010,Kidney disease,North Carolina,1892,19.5
+2009,Kidney disease,North Carolina,1828,19.2
+2008,Kidney disease,North Carolina,1729,18.7
+2007,Kidney disease,North Carolina,1723,19.1
+2006,Kidney disease,North Carolina,1661,19.1
+2005,Kidney disease,North Carolina,1561,18.6
+2004,Kidney disease,North Carolina,1470,18.0
+2003,Kidney disease,North Carolina,1387,17.3
+2002,Kidney disease,North Carolina,1437,18.4
+2001,Kidney disease,North Carolina,1332,17.4
+2000,Kidney disease,North Carolina,1315,17.6
+1999,Kidney disease,North Carolina,1138,15.4
+2016,Stroke,North Carolina,4940,43.0
+2015,Stroke,North Carolina,5033,44.7
+2014,Stroke,North Carolina,4702,43.0
+2013,Stroke,North Carolina,4503,42.4
+2012,Stroke,North Carolina,4410,42.8
+2011,Stroke,North Carolina,4299,43.2
+2010,Stroke,North Carolina,4298,44.7
+2009,Stroke,North Carolina,4442,47.2
+2008,Stroke,North Carolina,4637,50.8
+2007,Stroke,North Carolina,4530,51.1
+2006,Stroke,North Carolina,4572,53.2
+2005,Stroke,North Carolina,4861,59.0
+2004,Stroke,North Carolina,4955,61.7
+2003,Stroke,North Carolina,5203,66.4
+2002,Stroke,North Carolina,5259,68.8
+2001,Stroke,North Carolina,5401,72.1
+2000,Stroke,North Carolina,5749,78.5
+1999,Stroke,North Carolina,5626,77.9
+2016,Suicide,North Carolina,1373,13.0
+2015,Suicide,North Carolina,1406,13.4
+2014,Suicide,North Carolina,1352,13.1
+2013,Suicide,North Carolina,1284,12.6
+2012,Suicide,North Carolina,1286,12.7
+2011,Suicide,North Carolina,1213,12.3
+2010,Suicide,North Carolina,1174,12.0
+2009,Suicide,North Carolina,1174,12.2
+2008,Suicide,North Carolina,1162,12.3
+2007,Suicide,North Carolina,1077,11.6
+2006,Suicide,North Carolina,1106,12.2
+2005,Suicide,North Carolina,1009,11.5
+2004,Suicide,North Carolina,1027,11.9
+2003,Suicide,North Carolina,955,11.2
+2002,Suicide,North Carolina,986,11.8
+2001,Suicide,North Carolina,997,12.0
+2000,Suicide,North Carolina,971,12.0
+1999,Suicide,North Carolina,884,11.0
+2015,Unintentional injuries,North Carolina,4991,47.9
+2014,Unintentional injuries,North Carolina,4557,44.4
+2013,Unintentional injuries,North Carolina,4324,42.7
+2012,Unintentional injuries,North Carolina,4281,43.0
+2011,Unintentional injuries,North Carolina,4297,43.8
+2010,Unintentional injuries,North Carolina,4144,43.2
+2009,Unintentional injuries,North Carolina,4136,43.6
+2008,Unintentional injuries,North Carolina,4313,46.4
+2007,Unintentional injuries,North Carolina,4389,48.3
+2006,Unintentional injuries,North Carolina,4156,46.9
+2005,Unintentional injuries,North Carolina,4123,47.9
+2004,Unintentional injuries,North Carolina,4019,47.7
+2003,Unintentional injuries,North Carolina,3835,46.3
+2002,Unintentional injuries,North Carolina,3700,45.3
+2001,Unintentional injuries,North Carolina,3438,42.6
+2000,Unintentional injuries,North Carolina,3525,44.7
+1999,Unintentional injuries,North Carolina,3290,42.1
